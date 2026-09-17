@@ -68,4 +68,6 @@ but the terminal will give you helpful commands to input into the terminal in or
 - **Push**: Uploads commits to the remote repo where you can see changes occur in the repo. 
 - **Pull**: Allows for developers to "pull" information and changes from the remote repo into the local repo.
 - **Remote**: An environment (in this case) that is set on a cloud. Ex. GitHub is a cloud application
-- **Repository**: A space on Github where developers can place files, source code, documentation, and othe important documents to a project. Allows for easy access to resources as well as simple collaboration. 
+- **Repository**: A space on Github where developers can place files, source code, documentation, and othe important documents to a project. Allows for easy access to resources as well as simple collaboration.  
+**Resoures**: 
+  https://www.geeksforgeeks.org/ for defintions 
