@@ -44,7 +44,7 @@ Directions for Using Git, Github, and VS Code
     g. Then you will see HTTPS highlights and a link to copy. Make sure you copy it and come back to VSCode
     h. Now in the terminal you want to type in "git clone PASTELINK". This will copy the repo within your local copmuter so you can start commtting things.
     i. Now start coding and creating some files
-**COMITTING FILES FROM LOCAL COMPUTER TO GITHUB BROWSWER**
+\ **COMITTING FILES FROM LOCAL COMPUTER TO GITHUB BROWSWER** \
 1. Once your ready to commit, there are a few commands that you need to run in th terminal (make sure everything is saved)
 2. "git status" is one of the first commands you'll run to see any changes in the files from the broswer and your local computer
 2. Once you've confirmed, you must do "git add ." This will add all the files inside of the folder into the staging area for pushing into the repo
